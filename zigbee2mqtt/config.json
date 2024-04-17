@@ -1,6 +1,6 @@
 {
   "name": "Zigbee2MQTT",
-  "version": "1.36.1-1",
+  "version": "1.32.2-1",
   "slug": "zigbee2mqtt",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
@@ -26,7 +26,7 @@
     "config:rw"
   ],
   "ports": {
-    "8485/tcp": 8485,
+    "8485/tcp": 8384,
     "8099/tcp": null
   },
   "ports_description": {
